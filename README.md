@@ -1,4 +1,4 @@
-# dict-idolrism
+# ユーザ辞書 for アイドリズム
 An user dictionaly of social game "idolrism"
 
 # これは何？
